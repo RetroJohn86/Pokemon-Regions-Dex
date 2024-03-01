@@ -1,5 +1,7 @@
 # __**Pokemon Regions Dex**__
 
+As from the March 1st 2024, the Download Size of this Repo is : 373 MB ( Please Note This Size Can Change At Anytime. )
+
 **Images** **:** 
 All images i found are located in these Listed Folders and are organized based on category. e.g. Alola, Alolan, Babies, Galar, Galarian, Hisuian, Hoenn, Johto, Kalos, Kanto, Mega, Paldea, Paldean, Primal, Sinnoh, Unova, Region Evolves, Events and More. 
 
